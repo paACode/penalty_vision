@@ -1,0 +1,487 @@
+﻿year;Country;player_id;player_name;Kicker_Foot;Kicker_Side;Goalie_Side;Outcome;goalkeer_name;goalkeeper_id;Home_Goals;Away_Goals;Minute;Team_Type;del1;del2;del3;del4
+24/25;Portugal;1;Galeno ;R;L;L;1;Andrew;1;0;0;30;H;Galeno ;1;Andrew;1
+24/25;Portugal;2;Namaso;R;L;R;1;Andrew;1;0;0;70;H;Namaso;2;Dani Figueira;2
+24/25;Portugal;3;Safira;R;R;L;1;Dani Figueira;2;1;0;70;A;Safira;3;Ricardo Batista;3
+24/25;Portugal;4;Reisinho;L;L;R;1;Ricardo Batista;3;0;0;77;A;Reisinho;4;Gabriel Batista;4
+24/25;Portugal;1;Galeno ;R;L;R;1;Gabriel Batista;4;1;0;25;A;Alan;5;Nico Mantl;5
+24/25;Portugal;5;Alan;R;L;L;1;Nico Mantl;5;1;1;45;H;Fujimoto;6;Simao;6
+24/25;Portugal;6;Fujimoto;L;C;R;1;Simao;6;2;2;90;H;Clayton;7;Kewin;7
+24/25;Portugal;7;Clayton;R;R;R;1;Nico Mantl;5;0;0;43;H;M. Leonardo;8;Velho;8
+24/25;Portugal;8;M. Leonardo;R;L;L;1;Kewin;7;0;1;90;A;Ángel Di María;9;Lucas França;9
+24/25;Portugal;1;Galeno ;R;L;L;1;Velho;8;0;0;48;H;Cassiano;10;Varela;10
+24/25;Portugal;9;Ángel Di María;L;L;R;1;Lucas França;9;0;0;59;A;G. Assunçao;11;Bruno Brigiido;11
+24/25;Portugal;10;Cassiano;R;L;L;1;Andrew;1;1;0;85;A;T. Silva;12;Robles;12
+24/25;Portugal;10;Cassiano;R;R;L;1;Varela;10;0;0;39;H;R. Pinho;13;Matheus;13
+24/25;Portugal;11;G. Assunçao;R;C;R;1;Nico Mantl;5;0;1;77;H;R. Macedo;14;Patrick S.;14
+24/25;Portugal;4;Reisinho;L;R;L;1;Varela;10;2;0;90;A;Bruma;15;Caio Seco;15
+24/25;Portugal;4;Reisinho;L;C;L;1;Varela;10;2;1;90;A;O. Aranda;16;Lazar;16
+24/25;Portugal;12;T. Silva;R;L;L;1;Bruno Brigiido;11;1;1;69;A;A. Marques;17;Cesar;17
+24/25;Portugal;13;R. Pinho;L;L;R;1;Varela;10;1;2;84;H;G. Silva;18;Guillermo Ochoa;18
+24/25;Portugal;14;R. Macedo;R;C;L;1;Gabriel Batista;4;1;0;13;H;Jason ;19;Miszta;19
+24/25;Portugal;15;Bruma;R;L;R;1;Nico Mantl;5;0;0;16;A;Yalcin;20;Rui Silva;20
+24/25;Portugal;10;Cassiano;R;R;L;1;Velho;8;0;1;32;H;B.Costa;21;Diogo Costa;21
+24/25;Portugal;16;O. Aranda;R;R;L;1;Robles;12;2;0;45;A;Hjulmand;22;Zlobin;22
+24/25;Portugal;9;Ángel Di María;L;R;L;1;Nico Mantl;5;0;1;71;A;F.Navarro;23;Vaclik;23
+24/25;Portugal;15;Bruma;R;C;R;1;Robles;12;1;0;56;H;Tomane ;24;João Valido;24
+24/25;Portugal;17;A. Marques;R;R;L;1;Matheus;13;2;0;68;A;H. Araujo;25;Kevin;25
+24/25;Portugal;11;G. Assunçao;R;R;R;1;Patrick S.;14;1;0;72;A;Y.Begraouri;26;;
+24/25;Portugal;4;Reisinho;L;L;R;1;Velho;8;0;1;90;H;Pavlidis;27;Hornicek;27
+24/25;Portugal;12;T. Silva;R;C;R;1;Lucas França;9;0;1;24;H;Dudu ;28;Claudio ;28
+24/25;Portugal;17;A. Marques;R;R;L;1;Caio Seco;15;0;1;22;H;F. Correia;29;João Costa;29
+24/25;Portugal;18;G. Silva;R;L;R;1;Lazar;16;0;0;32;A;Kokcu;30;Rui Enc.;30
+24/25;Portugal;7;Clayton;R;L;R;1;Lucas França;9;1;1;73;H;Samu;31;Marko;31
+24/25;Portugal;5;Alan;R;R;L;1;Simao;6;0;0;9;H;Ze Luís;32;Samuel;32
+24/25;Portugal;19;Jason ;R;L;L;1;Cesar;17;0;0;45;A;Van ginkel;33;Kaique;33
+24/25;Portugal;20;Yalcin;R;R;L;1;Cesar;17;1;1;90;A;Bozenik;34;Kaminski;34
+24/25;Portugal;21;B.Costa;R;L;L;1;Guillermo Ochoa;18;0;0;20;H;Justin;35;Steele;35
+24/25;Portugal;22;Hjulmand;R;R;R;1;Miszta;19;0;1;23;A;Alan Ruiz;36;Vicario;36
+24/25;Portugal;23;F.Navarro;R;L;L;1;Cesar;17;2;0;69;H;Zalazar ;37;Leno;37
+24/25;Portugal;24;Tomane ;R;C;L;1;Miszta;19;0;2;82;H;Neto;38;Pickford;38
+24/25;Portugal;25;H. Araujo;R;R;L;1;Lucas França;9;0;1;26;A;Gyokeres;39;Sanchez;39
+24/25;Portugal;26;Y.Begraouri;R;R;L;1;Andrew;1;1;0;45;A;Jovane;40;Sam ;40
+24/25;Portugal;27;Pavlidis;R;L;R;1;Kewin;7;0;0;7;H;Nené;41;Turner;41
+24/25;Portugal;5;Alan;R;R;L;1;Patrick S.;14;0;0;12;H;Arthur Cabral;42;Flekken;42
+24/25;Portugal;5;Alan;R;L;L;1;Patrick S.;14;1;0;26;H;T. Morais;43;José Sá;43
+24/25;Portugal;25;H. Araujo;R;R;R;1;Rui Silva;20;1;1;45;A;Brian;44;Areola;44
+24/25;Portugal;28;Dudu ;R;R;L;1;Robles;12;0;1;45;H;Rony;45;Trafford;45
+24/25;Portugal;9;Ángel Di María;L;R;L;1;Diogo Costa;21;3;1;82;H;Joel Tagueu;46;Neto;46
+24/25;Portugal;17;A. Marques;R;L;L;1;Zlobin;22;1;0;30;H;Vinícius;47;Verbruggen;47
+24/25;Portugal;15;Bruma;R;L;R;1;Gabriel Batista;4;0;1;77;A;João Pedro;48;Raya;48
+24/25;Portugal;16;O. Aranda;R;C;L;1;Velho;8;0;2;80;H;Morris;49;André Onana;49
+24/25;Portugal;29;F. Correia;R;R;R;1;Diogo Costa;21;2;1;90;H;Mbeumo;50;Wes;50
+24/25;Portugal;9;Ángel Di María;L;R;L;1;Patrick S.;14;0;0;14;A;Douglas L.;51;Ederson;51
+24/25;Portugal;30;Kokcu;R;L;L;1;Vaclik;23;2;0;77;H;Paqueta;52;Ody V.;52
+24/25;Portugal;31;Samu;R;L;R;1;João Valido;24;0;0;13;A;Odegard;53;Alisson;53
+24/25;Portugal;32;Ze Luís;L;L;L;1;Velho;8;0;0;90;A;Saka;54;Dubravaka;54
+24/25;Portugal;9;Ángel Di María;L;L;R;1;Andrew;1;0;2;90;A;Bruno F.;55;Dean H.;55
+24/25;Portugal;30;Kokcu;R;L;R;1;Lucas França;9;1;0;23;H;Haaland;56;Petrovic;56
+24/25;Portugal;33;Van ginkel;R;L;R;1;Varela;10;0;0;45;H;Callum W.;57;Muric;57
+24/25;Portugal;12;T. Silva;R;L;L;1;Vaclik;23;1;1;76;A;Salah;58;Fabianski;58
+24/25;Portugal;27;Pavlidis;R;L;R;1;Lucas França;9;2;0;90;H;Kai;60;Sels;60
+24/25;Portugal;5;Alan;R;L;R;1;Vaclik;23;0;0;31;H;Palmer;61;Travers;61
+24/25;Portugal;16;O. Aranda;R;L;R;1;Rui Silva;20;1;0;35;A;McBrunie;62;Ivo G.;62
+24/25;Portugal;27;Pavlidis;R;R;L;1;Miszta;19;0;1;53;A;Fabio Viera;63;Olsen;63
+24/25;Portugal;17;A. Marques;R;R;R;1;Nico Mantl;5;1;0;90;A;Oliver N.;64;Marco Silvestri;64
+24/25;Portugal;26;Y.Begraouri;R;R;R;1;Diogo Costa;21;0;0;15;H;Eze;65;Luís Maximiano;65
+24/25;Portugal;31;Samu;R;L;L;1;Kevin;25;1;0;45;A;Jay R.;66;Andrea Consigli;66
+24/25;Portugal;34;Bozenik;R;L;L;1;Andrew;1;0;3;90;H;Rashford;67;Vanja Milinkovič-Savič;67
+24/25;Portugal;16;O. Aranda;R;C;L;1;Nico Mantl;5;0;0;35;A;Willian;68;Luigi Sepe;68
+24/25;Portugal;25;H. Araujo;R;C;L;1;Lazar;16;0;1;71;H;Hee-chang;69;Mattia Perin;69
+24/25;Portugal;20;Yalcin;R;L;R;1;Trublin;109;1;0;72;A;Morgan G.;70;Emil Audero;70
+24/25;Portugal;29;F. Correia;R;L;R;1;Lucas França;9;0;2;82;A;Enzo;71;Ionuţ Radu;71
+24/25;Portugal;35;Justin;L;R;L;1;Hornicek;27;0;0;8;H;Mateta;72;Mike Maignan;72
+24/25;Portugal;10;Cassiano;R;L;R;1;Robles;12;0;1;43;H;Son;73;Wladimiro Falcone;73
+24/25;Portugal;36;Alan Ruiz;L;R;L;1;Claudio ;28;1;0;62;H;Olise;74;Pietro Terracciano;74
+24/25;Portugal;29;F. Correia;R;L;L;1;Rui Silva;20;0;0;26;A;Solanke;75;Lukasz Skorupski;75
+24/25;Portugal;31;Samu;R;L;L;1;Caio Seco;15;1;1;70;H;Alvarez;76;Alex Meret;76
+24/25;Portugal;7;Clayton;R;L;R;1;João Costa;29;0;0;79;H;Madueke;77;Marco Carnesechi;77
+24/25;Portugal;4;Reisinho;L;L;R;1;Diogo Costa;21;0;2;34;H;James W.;78;Gianluca Pegolo;78
+24/25;Portugal;37;Zalazar ;R;L;L;1;Trublin;109;0;0;24;H;Sarabia;79;Juan Musso;79
+24/25;Portugal;38;Neto;R;R;R;1;Gabriel Batista;4;0;2;45;H;Cunha;80;Ciprian Tătărușanu;80
+24/25;Portugal;31;Samu;R;C;L;1;Rui Enc.;30;1;0;69;H;Grob;81;Bartlomiej Dragowski;81
+24/25;Portugal;39;Gyokeres;R;R;L;1;Lucas França;9;1;2;51;A;McAtee;82;Rui Patrício;82
+24/25;Portugal;39;Gyokeres;R;L;L;1;Velho;8;0;1;41;A;Gordon;83;Samir Handanovič;83
+24/25;Portugal;39;Gyokeres;R;L;R;1;Diogo Costa;21;0;0;72;H;Mac Allister;84;Nicola Ravaglia;84
+24/25;Portugal;39;Gyokeres;R;R;L;1;Nico Mantl;5;0;1;73;A;Jacob;85;Michele Di Gregorio;85
+24/25;Portugal;39;Gyokeres;R;R;R;1;Patrick S.;14;1;0;80;H;Dominic;86;Marco Sportiello;86
+24/25;Portugal;39;Gyokeres;R;L;R;1;Bruno Brigiido;11;2;1;42;H;Amdouni;87;Wojciech Szczesny;87
+24/25;Portugal;39;Gyokeres;R;L;L;1;Kewin;7;0;0;12;A;Diaz;88;Lorenzo Montipò;88
+24/25;Portugal;39;Gyokeres;R;L;L;1;Robles;12;2;1;90;H;Said;89;Martin Turk;89
+24/25;Portugal;39;Gyokeres;R;L;R;1;Patrick S.;14;1;2;77;A;Darwin;90;Michele Cerofolini;90
+24/25;Portugal;39;Gyokeres;R;R;L;1;Lazar;16;1;1;64;H;Beto;91;Jeroen Zoet;91
+24/25;Portugal;39;Gyokeres;R;L;L;1;João Costa;29;0;0;52;A;Theo Hernández;92;Ivan Provedel;92
+24/25;Portugal;39;Gyokeres;R;L;L;1;João Costa;29;0;2;89;A;Marko Arnautovic;93;Antonio Mirante;93
+24/25;Portugal;26;Y.Begraouri;R;L;L;0;Velho;8;0;0;15;A;Dušan Vlahović;94;Alex Cordaz;94
+24/25;Portugal;19;Jason ;R;L;L;0;Robles;12;3;1;80;A;M'Bala Nzola;95;Gianluigi Buffon;95
+24/25;Portugal;3;Safira;R;L;R;0;Andrew;1;2;1;90;H;Teun Koopmeiners;96;Alessio Cragno;96
+24/25;Portugal;40;Jovane;R;L;R;0;Lucas França;9;0;0;57;H;Krzysztof Piatek;97;Pepe Reina;97
+24/25;Portugal;15;Bruma;R;R;R;0;Simao;6;0;1;79;A;Olivier Giroud;98;Gianluigi Donnarumma;98
+24/25;Portugal;16;O. Aranda;R;L;L;0;Diogo Costa;21;1;1;78;H;Ciro Immobile;99;David Ospina;99
+24/25;Portugal;41;Nené;R;L;L;0;Lucas França;9;3;1;86;A;Matteo Politano;100;Salvatore Sirigu;100
+24/25;Portugal;1;Galeno ;R;R;L;0;Gabriel Batista;4;0;1;72;H;Daniel Ciofani;101;Pierluigi Gollini;101
+24/25;Portugal;1;Galeno ;R;L;L;0;Gabriel Batista;4;1;1;90;H;Andrea Pinamonti;102;Angelo da Costa;102
+24/25;Portugal;42;Arthur Cabral;R;R;R;0;Marko;31;2;3;87;A;Gabriel Strefezza;103;Thomas Strakosha;103
+24/25;Portugal;28;Dudu ;R;L;L;0;Samuel;32;2;0;45;A;Paulo Dybala;104;Pau López;104
+24/25;Portugal;43;T. Morais;R;L;L;0;Patrick S.;14;2;1;87;A;Luis Muriel;105;Simone Colombi;105
+24/25;Portugal;19;Jason ;R;R;R;0;Lazar;16;0;0;26;H;Lorenzo Pellegrini;106;Simone Scuffet;106
+24/25;Portugal;13;R. Pinho;L;R;R;0;Kaique;33;0;0;40;H;Lautaro Martínez;107;Federico Ravaglia;107
+24/25;Portugal;44;Brian;L;R;R;0;João Costa;29;1;0;81;H;Andrea Petagna;108;Hugo Souza;108
+24/25;Portugal;26;Y.Begraouri;R;L;L;0;Trublin;109;0;2;66;H;Ademola Lookman;109;Trublin;109
+24/25;Portugal;45;Rony;L;R;R;0;Varela;10;1;1;81;A;Saša Lukić;110;Luiz Júnior;110
+24/25;Portugal;46;Joel Tagueu;L;L;L;0;Diogo Costa;21;1;0;12;A;Hakan Çalhanoğlu;111;João Gonçalves;111
+24/25;Portugal;32;Ze Luís;L;R;L;1;Rui Silva;20;0;2;71;H;Hirving Lozano;112;;
+24/25;Portugal;47;Vinícius;R;R;L;0;Varela;10;1;0;90;H;Matteo Pessina;113;;
+23/24;England;48;João Pedro;R;R;R;1;Kaminski;34;1;0;71;H;Domenico Berardi;114;;
+23/24;England;49;Morris;R;L;R;1;Steele;35;2;0;81;A;Eljif Elmas;115;;
+23/24;England;50;Mbeumo;L;L;R;1;Vicario;36;0;1;26;H;Nico González;116;;
+23/24;England;50;Mbeumo;L;L;C;1;Leno;37;0;1;66;A;Gianluca Caprari;117;;
+23/24;England;51;Douglas L.;R;R;R;1;Pickford;38;1;0;24;H;Mattia Zaccagni;118;;
+23/24;England;52;Paqueta;L;R;L;1;Sanchez;39;2;1;90;H;David Okereke;119;;
+23/24;England;53;Odegard;L;L;R;1;Sam ;40;0;0;53;A;Luis Alberto;120;;
+23/24;England;54;Saka;L;R;L;1;Leno;37;0;1;70;H;Armand Laurienté;121;;
+23/24;England;55;Bruno F.;R;L;L;1;Turner;41;2;2;76;H;Riccardo Orsolini;122;;
+23/24;England;56;Haaland;L;L;R;1;Leno;37;3;1;70;H;Khvicha Kvaratskhelia;123;;
+23/24;England;51;Douglas L.;R;L;R;1;Sam ;40;1;1;90;H;Daniele Verde;124;;
+23/24;England;57;Callum W.;R;R;R;1;Flekken;42;0;0;64;H;Romelu Lukaku;125;;
+23/24;England;49;Morris;R;L;R;1;José Sá;43;0;1;65;H;Antonio Sanabria;126;;
+23/24;England;54;Saka;L;C;L;1;Vicario;36;1;1;54;H;Abdelhamid Sabiri;127;;
+23/24;England;58;Salah;L;R;L;1;Areola;44;0;0;16;H;Zlatan Ibrahimović;128;;
+23/24;England;#NV;Isak;R;R;L;1;Trafford;45;1;0;76;H;Francesco Caputo;129;;
+23/24;England;53;Odegard;L;L;R;1;Neto;46;0;1;44;A;Simone Verdi;130;;
+23/24;England;60;Kai;L;L;R;1;Neto;46;0;2;53;A;Assan Ceesay;131;;
+23/24;England;58;Salah;L;L;L;1;Verbruggen;47;1;1;45;A;Victor Osimhen;133;;
+23/24;England;61;Palmer;L;R;L;1;Trafford;45;1;1;50;A;Lorenzo Colombo;134;;
+23/24;England;61;Palmer;L;L;L;1;Raya;48;0;0;15;H;Cristian Buonaiuto;135;;
+23/24;England;62;McBrunie;R;R;R;1;André Onana;49;0;1;34;H;Luka Jovic;136;;
+23/24;England;51;Douglas L.;R;C;L;1;Areola;44;1;0;51;H;Leonardo Bonucci;137;;
+23/24;England;58;Salah;L;R;C;1;Pickford;38;0;0;75;H;Cristiano Biraghi;138;;
+23/24;England;56;Haaland;L;R;L;1;André Onana;49;0;0;26;A;Cyriel Dessers;139;;
+23/24;England;57;Callum W.;R;L;L;1;José Sá;43;1;1;45;A;Andrea Belotti;140;;
+23/24;England;63;Fabio Viera;L;R;L;1;Wes;50;3;0;88;H;Bryan Cristante;141;;
+23/24;England;61;Palmer;L;R;R;1;Vicario;36;1;0;35;A;Roberto Pereyra;142;;
+23/24;England;64;Oliver N.;R;C;L;1;José Sá;43;1;1;90;H;Arkadiusz Milik;143;;
+23/24;England;65;Eze;R;R;C;1;Pickford;38;0;1;5;H;Christian Gytkjær;144;;
+23/24;England;56;Haaland;L;L;R;1;Sanchez;39;0;0;25;A;Jordan Veretout;145;;
+23/24;England;61;Palmer;L;L;L;1;Ederson;51;3;4;90;H;Cristiano Ronaldo;146;;
+23/24;England;66;Jay R.;R;C;R;1;Areola;44;0;0;49;H;Franck Kessié;147;;
+23/24;England;67;Rashford;R;L;L;1;Pickford;38;0;1;56;A;Fabio Quagliarella;148;;
+23/24;England;68;Willian;R;R;L;1;José Sá;43;1;1;59;H;Simy;149;;
+23/24;England;69;Hee-chang;R;C;R;1;Leno;37;2;1;75;A;Lorenzo Insigne;150;;
+23/24;England;48;João Pedro;R;L;R;1;Ody V.;52;1;2;58;A;Duván Zapata;151;;
+23/24;England;70;Morgan G.;R;L;R;1;Verbruggen;47;1;3;73;H;Juraj Kucka;152;;
+23/24;England;68;Willian;R;L;L;1;José Sá;43;2;2;90;H;Rodrigo De Paul;153;;
+23/24;England;71;Enzo;R;C;L;1;Steele;35;2;1;65;H;Manuel Locatelli;154;;
+23/24;England;50;Mbeumo;L;L;R;1;Steele;35;0;0;27;A;Cristian Ansaldi;155;;
+23/24;England;72;Mateta;R;C;L;1;Alisson;53;0;0;57;H;Miguel Veloso;156;;
+23/24;England;73;Son;R;L;L;1;Dubravaka;54;3;0;85;H;Marco Sal;157;;
+23/24;England;74;Olise;L;L;R;1;Ederson;51;2;1;90;A;Domenico Criscito;158;;
+23/24;England;48;João Pedro;R;L;R;1;Vicario;36;1;0;23;H;Vladimir Golemić;159;;
+23/24;England;#NV;Isak;R;R;R;1;Turner;41;0;0;23;H;Antonio Candreva;160;;
+23/24;England;75;Solanke;R;R;L;1;Leno;37;1;0;62;H;Henrikh Mkhitaryan;161;;
+23/24;England;76;Alvarez;R;C;L;1;Pickford;38;1;1;64;A;Filip Djuričić;162;;
+23/24;England;48;João Pedro;R;R;L;1;Vicario;36;3;0;75;H;Nicolas Viola;163;;
+23/24;England;77;Madueke;L;L;R;1;Dean H.;55;1;1;89;H;Josip Iličić;164;;
+23/24;England;58;Salah;L;L;R;1;Dubravaka;54;3;2;86;H;Álvaro Morata;165;;
+23/24;England;51;Douglas L.;R;C;R;1;Trafford;45;2;2;89;H;Hernani;166;;
+23/24;England;61;Palmer;L;R;L;1;Leno;37;0;0;45;H;Ruslan Malinovskyi;167;;
+23/24;England;78;James W.;R;C;L;1;Wes;50;1;1;79;A;Felipe Caicedo;168;;
+23/24;England;62;McBrunie;R;L;L;1;Areola;44;1;2;90;H;Joaquín Correa;169;;
+23/24;England;78;James W.;R;C;L;1;Neto;46;0;1;61;H;Manolo Gabbiadini;170;;
+23/24;England;79;Sarabia;L;C;R;1;André Onana;49;0;2;71;H;Gianluca Scamacca;171;;
+23/24;England;49;Morris;R;R;L;1;Dubravaka;54;2;2;59;A;Goran Pandev;172;;
+23/24;England;80;Cunha;R;R;L;1;Petrovic;56;1;3;82;A;Juan Cuadrado;173;;
+23/24;England;81;Grob;R;L;R;1;Vicario;36;0;0;17;A;Gianluca Lapadula;174;;
+23/24;England;82;McAtee;L;R;L;1;Kaminski;34;0;1;36;A;Musa Barrow;175;;
+23/24;England;54;Saka;L;R;L;1;Areola;44;0;1;41;A;Alexis Sánchez;176;;
+23/24;England;49;Morris;R;R;L;1;Wes;50;0;2;52;H;Andrey Galabinov;177;;
+23/24;England;54;Saka;L;R;R;1;Trafford;45;0;1;41;A;Edin Džeko;178;;
+23/24;England;83;Gordon;R;R;R;1;Neto;46;0;1;58;H;Fellipe Cardoso;179;;
+23/24;England;72;Mateta;R;R;L;1;Trafford;45;2;0;79;H;Cristo;180;;
+23/24;England;55;Bruno F.;R;R;R;1;Pickford;38;0;0;12;H;;;;
+23/24;England;67;Rashford;R;L;R;1;Pickford;38;1;0;36;H;;;;
+23/24;England;84;Mac Allister;R;L;L;1;Ederson;51;0;1;50;H;;;;
+23/24;England;85;Jacob;R;L;L;1;Flekken;42;0;0;10;H;;;;
+23/24;England;55;Bruno F.;R;L;R;1;Wes;50;1;2;61;H;;;;
+23/24;England;#NV;Isak;R;L;R;1;Areola;44;0;0;6;H;;;;
+23/24;England;61;Palmer;L;C;L;1;Muric;57;0;0;44;H;;;;
+23/24;England;#NV;Isak;R;L;R;1;Fabianski;58;1;3;77;H;;;;
+23/24;England;61;Palmer;L;R;L;1;André Onana;49;1;0;19;H;;;;
+23/24;England;86;Dominic;R;L;L;1;Dubravaka;54;1;0;88;A;;;;
+23/24;England;61;Palmer;L;R;L;1;André Onana;49;2;3;90;H;;;;
+23/24;England;54;Saka;L;R;L;1;Verbruggen;47;0;0;33;A;;;;
+23/24;England;79;Sarabia;L;R;R;1;Fabianski;58;0;0;33;H;;;;
+23/24;England;52;Paqueta;L;R;R;1;José Sá;43;1;0;63;A;;;;
+23/24;England;58;Salah;L;L;R;1;André Onana;49;2;1;84;A;;;;
+23/24;England;61;Palmer;L;R;L;1;Pickford;38;4;0;64;H;;;;
+23/24;England;55;Bruno F.;R;R;L;1;Neto;46;2;1;65;A;;;;
+23/24;England;56;Haaland;L;L;R;1;Kaminski;34;2;0;76;H;;;;
+23/24;England;75;Solanke;R;L;L;1;Martinez;#NV;0;0;31;A;;;;
+23/24;England;56;Haaland;L;L;R;1;Vicario;36;0;1;90;A;;;;
+23/24;England;#NV;Isak;R;R;C;1;Wes;50;2;1;61;H;;;;
+23/24;England;87;Amdouni;R;R;L;1;André Onana;49;1;0;87;A;;;;
+23/24;England;73;Son;R;L;L;1;Raya;48;1;3;87;H;;;;
+23/24;England;56;Haaland;L;L;R;1;José Sá;43;0;0;12;H;;;;
+23/24;England;88;Diaz;R;C;R;1;Sels;60;0;0;17;H;;;;
+23/24;England;86;Dominic;R;C;L;1;Kaminski;34;0;0;24;A;;;;
+23/24;England;54;Saka;L;L;R;1;Travers;61;0;0;45;H;;;;
+23/24;England;56;Haaland;L;L;L;1;José Sá;43;2;0;45;H;;;;
+23/24;England;76;Alvarez;R;R;L;1;Leno;37;0;3;90;A;;;;
+23/24;England;49;Morris;R;R;L;1;Leno;37;0;1;45;H;;;;
+23/24;England;58;Salah;L;L;R;0;Neto;46;2;1;35;H;;;;
+23/24;England;71;Enzo;R;L;L;0;Areola;44;1;1;43;A;;;;
+23/24;England;56;Haaland;L;R;L;0;Wes;50;0;0;37;A;;;;
+23/24;England;55;Bruno F.;R;L;L;0;Sanchez;39;0;0;9;H;;;;
+23/24;England;89;Said;R;R;R;0;Raya;48;0;2;90;A;;;;
+23/24;England;58;Salah;L;C;C;0;Dubravaka;54;0;0;22;H;;;;
+23/24;England;90;Darwin;R;R;L;0;Petrovic;56;2;0;45;H;;;;
+23/24;England;91;Beto;R;R;R;0;Areola;44;0;0;45;H;;;;
+23/24;England;75;Solanke;R;L;L;0;Ivo G.;62;0;0;14;H;;;;
+23/24;England;#NV;Isak;R;L;L;0;Muric;57;0;3;52;A;;;;
+23/24;England;48;João Pedro;R;L;L;0;Olsen;63;1;0;87;H;;;;
+22/23;Italy ;92;Theo Hernández;L;L;R;1;Marco Silvestri;64;0;1;11;H;;;;
+22/23;Italy ;93;Marko Arnautovic;R;R;L;1;Luís Maximiano;65;0;0;38;A;;;;
+22/23;Italy ;94;Dušan Vlahović;L;C;L;1;Andrea Consigli;66;1;0;43;H;;;;
+22/23;Italy ;95;M'Bala Nzola;L;R;L;1;Andrea Consigli;66;1;1;45;H;;;;
+22/23;Italy ;96;Teun Koopmeiners;L;C;L;1;Vanja Milinkovič-Savič;67;0;0;45;H;;;;
+22/23;Italy ;93;Marko Arnautovic;R;L;R;1;Luigi Sepe;68;0;0;52;H;;;;
+22/23;Italy ;96;Teun Koopmeiners;L;R;R;1;Vanja Milinkovič-Savič;67;2;1;84;H;;;;
+22/23;Italy ;97;Krzysztof Piatek;R;R;L;1;Mattia Perin;69;0;1;45;A;;;;
+22/23;Italy ;98;Olivier Giroud;L;L;R;1;Emil Audero;70;1;1;67;A;;;;
+22/23;Italy ;99;Ciro Immobile;R;R;L;1;Ionuţ Radu;71;0;1;21;A;;;;
+22/23;Italy ;100;Matteo Politano;L;L;L;1;Mike Maignan;72;0;0;55;A;;;;
+22/23;Italy ;101;Daniel Ciofani;R;R;R;1;Wladimiro Falcone;73;0;0;19;A;;;;
+22/23;Italy ;102;Andrea Pinamonti;R;L;L;1;Luigi Sepe;68;1;0;39;A;;;;
+22/23;Italy ;103;Gabriel Strefezza;R;R;L;1;Ionuţ Radu;71;0;1;42;H;;;;
+22/23;Italy ;100;Matteo Politano;L;L;R;1;Ionuţ Radu;71;0;0;26;A;;;;
+22/23;Italy ;104;Paulo Dybala;L;L;R;1;Wladimiro Falcone;73;1;1;48;H;;;;
+22/23;Italy ;105;Luis Muriel;R;L;L;1;Marco Silvestri;64;0;1;56;A;;;;
+22/23;Italy ;106;Lorenzo Pellegrini;R;L;L;1;Emil Audero;70;0;0;9;A;;;;
+22/23;Italy ;93;Marko Arnautovic;R;L;R;1;Wladimiro Falcone;73;0;0;13;H;;;;
+22/23;Italy ;42;Arthur Cabral;R;R;L;1;André Onana;49;0;2;33;H;;;;
+22/23;Italy ;107;Lautaro Martínez;R;R;L;1;Pietro Terracciano;74;2;2;73;A;;;;
+22/23;Italy ;108;Andrea Petagna;L;R;L;1;Lukasz Skorupski;75;0;0;57;H;;;;
+22/23;Italy ;109;Ademola Lookman;R;R;L;1;Alex Meret;76;0;0;19;H;;;;
+22/23;Italy ;110;Saša Lukić;R;L;L;1;Lukasz Skorupski;75;0;0;26;A;;;;
+22/23;Italy ;111;Hakan Çalhanoğlu;R;R;L;1;Lukasz Skorupski;75;4;1;59;H;;;;
+22/23;Italy ;112;Hirving Lozano;R;L;L;1;Vicario;36;0;0;69;H;;;;
+22/23;Italy ;109;Ademola Lookman;L;R;R;1;André Onana;49;0;0;25;H;;;;
+22/23;Italy ;113;Matteo Pessina;L;R;L;1;Luigi Sepe;68;2;0;76;H;;;;
+22/23;Italy ;106;Lorenzo Pellegrini;R;R;L;1;Lukasz Skorupski;75;0;0;6;H;;;;
+22/23;Italy ;114;Domenico Berardi;L;R;R;1;Emil Audero;70;0;2;64;H;;;;
+22/23;Italy ;114;Domenico Berardi;L;R;L;1;Pietro Terracciano;74;1;0;57;A;;;;
+22/23;Italy ;115;Eljif Elmas;R;L;R;1;Emil Audero;70;0;1;82;A;;;;
+22/23;Italy ;116;Nico González;L;R;R;1;Andrea Consigli;66;1;1;90;H;;;;
+22/23;Italy ;117;Gianluca Caprari;R;L;R;1;Marco Carnesechi;77;0;1;19;A;;;;
+22/23;Italy ;109;Ademola Lookman;R;R;R;1;Guillermo Ochoa;18;1;1;20;H;;;;
+22/23;Italy ;95;M'Bala Nzola;L;R;R;1;Vanja Milinkovič-Savič;67;0;0;28;A;;;;
+22/23;Italy ;118;Mattia Zaccagni;R;L;L;1;Gianluca Pegolo;78;0;0;45;A;;;;
+22/23;Italy ;9;Ángel Di María;L;R;L;1;Juan Musso;79;0;1;25;H;;;;
+22/23;Italy ;119;David Okereke;R;C;L;1;Lukasz Skorupski;75;0;0;50;A;;;;
+22/23;Italy ;120;Luis Alberto;R;C;L;1;Ciprian Tătărușanu;80;2;0;67;H;;;;
+22/23;Italy ;121;Armand Laurienté;R;L;L;1;Ciprian Tătărușanu;80;1;3;47;A;;;;
+22/23;Italy ;122;Riccardo Orsolini;L;R;L;1;Pietro Terracciano;74;0;0;14;A;;;;
+22/23;Italy ;94;Dušan Vlahović;L;R;R;1;Guillermo Ochoa;18;0;0;26;A;;;;
+22/23;Italy ;123;Khvicha Kvaratskhelia;R;R;R;1;Bartlomiej Dragowski;81;0;0;47;A;;;;
+22/23;Italy ;113;Matteo Pessina;L;R;R;1;Emil Audero;70;1;2;90;H;;;;
+22/23;Italy ;104;Paulo Dybala;L;R;R;1;Wladimiro Falcone;73;1;0;17;A;;;;
+22/23;Italy ;124;Daniele Verde;L;L;L;1;Vicario;36;0;0;25;A;;;;
+22/23;Italy ;125;Romelu Lukaku;L;R;R;1;Marco Silvestri;64;0;0;20;H;;;;
+22/23;Italy ;126;Antonio Sanabria;R;L;R;1;Marco Carnesechi;77;0;0;41;H;;;;
+22/23;Italy ;127;Abdelhamid Sabiri;R;C;R;1;Lukasz Skorupski;75;0;1;68;H;;;;
+22/23;Italy ;99;Ciro Immobile;R;R;R;1;Luigi Sepe;68;0;1;69;A;;;;
+22/23;Italy ;101;Daniel Ciofani;R;L;L;1;Rui Patrício;82;1;1;83;H;;;;
+22/23;Italy ;116;Nico González;L;R;L;1;Mike Maignan;72;0;0;49;H;;;;
+22/23;Italy ;114;Domenico Berardi;L;L;R;1;Rui Patrício;82;1;2;45;A;;;;
+22/23;Italy ;125;Romelu Lukaku;L;R;L;1;Bartlomiej Dragowski;81;1;0;83;A;;;;
+22/23;Italy ;95;M'Bala Nzola;L;R;R;1;Samir Handanovič;83;1;1;87;H;;;;
+22/23;Italy ;123;Khvicha Kvaratskhelia;R;C;L;1;Vanja Milinkovič-Savič;67;0;1;35;A;;;;
+22/23;Italy ;128;Zlatan Ibrahimović;R;C;R;1;Marco Silvestri;64;1;0;45;A;;;;
+22/23;Italy ;114;Domenico Berardi;L;R;R;1;Bartlomiej Dragowski;81;0;0;71;H;;;;
+22/23;Italy ;101;Daniel Ciofani;R;C;L;1;Juan Musso;79;0;1;56;H;;;;
+22/23;Italy ;129;Francesco Caputo;R;C;R;1;Wladimiro Falcone;73;0;0;62;H;;;;
+22/23;Italy ;104;Paulo Dybala;L;L;R;1;Nicola Ravaglia;84;1;0;88;H;;;;
+22/23;Italy ;104;Paulo Dybala;L;C;L;1;Vanja Milinkovič-Savič;67;0;0;8;A;;;;
+22/23;Italy ;91;Beto;R;R;L;1;Michele Di Gregorio;85;1;2;90;H;;;;
+22/23;Italy ;99;Ciro Immobile;R;L;R;1;Bartlomiej Dragowski;81;0;0;36;A;;;;
+22/23;Italy ;42;Arthur Cabral;R;L;R;1;Marco Sportiello;86;0;1;56;H;;;;
+22/23;Italy ;130;Simone Verdi;R;L;R;1;Lukasz Skorupski;75;0;0;45;H;;;;
+22/23;Italy ;113;Matteo Pessina;L;R;L;1;Pietro Terracciano;74;2;2;59;H;;;;
+22/23;Italy ;122;Riccardo Orsolini;L;R;L;1;Wojciech Szczesny;87;0;0;10;H;;;;
+22/23;Italy ;103;Gabriel Strefezza;L;R;L;1;Marco Silvestri;64;0;0;62;H;;;;
+22/23;Italy ;114;Domenico Berardi;L;R;R;1;Vicario;36;1;1;90;H;;;;
+22/23;Italy ;131;Assan Ceesay;L;R;R;1;Wojciech Szczesny;87;1;0;37;A;;;;
+22/23;Italy ;#NV;Boulaye Dia;L;R;R;1;Pietro Terracciano;74;2;2;81;H;;;;
+22/23;Italy ;122;Riccardo Orsolini;L;L;R;1;Vicario;36;3;0;88;A;;;;
+22/23;Italy ;133;Victor Osimhen;R;L;R;1;Pietro Terracciano;74;0;0;74;H;;;;
+22/23;Italy ;129;Francesco Caputo;R;L;L;1;Wojciech Szczesny;87;0;0;18;H;;;;
+22/23;Italy ;98;Olivier Giroud;L;L;R;1;Nicola Ravaglia;84;2;1;29;H;;;;
+22/23;Italy ;114;Domenico Berardi;L;R;L;1;Michele Di Gregorio;85;0;0;45;H;;;;
+22/23;Italy ;99;Ciro Immobile;R;R;L;1;Marco Silvestri;64;0;0;61;A;;;;
+22/23;Italy ;134;Lorenzo Colombo;L;C;R;1;Michele Di Gregorio;85;0;0;90;A;;;;
+22/23;Italy ;135;Cristian Buonaiuto;R;R;L;1;Guillermo Ochoa;18;0;0;26;H;;;;
+22/23;Italy ;98;Olivier Giroud;L;L;R;1;Lorenzo Montipò;88;0;0;45;H;;;;
+22/23;Italy ;133;Victor Osimhen;R;R;R;1;Martin Turk;89;0;0;64;H;;;;
+22/23;Italy ;114;Domenico Berardi;L;L;R;1;Michele Cerofolini;90;0;1;71;H;;;;
+22/23;Italy ;104;Paulo Dybala;L;L;L;1;Jeroen Zoet;91;1;1;90;H;;;;
+22/23;Italy;114;Domenico Berardi;L;L;L;0;Mike Maignan;72;0;0;23;H;;;;
+22/23;Italy;134;Lorenzo Colombo;L;R;R;0;Alex Meret;76;0;0;25;A;;;;
+22/23;Italy;136;Luka Jovic;R;L;L;0;Mattia Perin;69;1;1;44;A;;;;
+22/23;Italy;106;Lorenzo Pellegrini;R;L;L;0;Vicario;36;1;2;80;A;;;;
+22/23;Italy;137;Leonardo Bonucci;R;L;L;0;Luigi Sepe;68;2;2;90;H;;;;
+22/23;Italy;138;Cristiano Biraghi;L;R;R;0;Lorenzo Montipò;88;1;0;26;H;;;;
+22/23;Italy;99;Ciro Immobile;R;L;L;0;Bartlomiej Dragowski;81;0;0;3;H;;;;
+22/23;Italy;139;Cyriel Dessers;R;R;R;0;Emil Audero;70;0;0;7;H;;;;
+22/23;Italy;96;Teun Koopmeiners;L;C;L;0;Vicario;36;0;1;42;A;;;;
+22/23;Italy;101;Daniel Ciofani;R;C;C;0;Luigi Sepe;68;2;2;89;A;;;;
+22/23;Italy;140;Andrea Belotti;R;C;R;0;Vanja Milinkovič-Savič;67;0;1;90;H;;;;
+22/23;Italy;100;Matteo Politano;L;R;R;0;Emil Audero;70;0;0;6;A;;;;
+22/23;Italy;96;Teun Koopmeiners;L;R;R;0;Guillermo Ochoa;18;3;1;38;H;;;;
+22/23;Italy;124;Daniele Verde;L;R;R;0;Vicario;36;0;0;22;A;;;;
+22/23;Italy;127;Abdelhamid Sabiri;R;R;R;0;Lukasz Skorupski;75;1;1;71;H;;;;
+22/23;Italy;120;Luis Alberto;R;L;L;0;Luigi Sepe;68;0;2;90;A;;;;
+22/23;Italy;107;Lautaro Martínez;R;R;R;0;Bartlomiej Dragowski;81;0;0;14;A;;;;
+22/23;Italy;94;Dušan Vlahović;L;L;R;0;Martin Turk;89;3;2;69;H;;;;
+22/23;Italy;141;Bryan Cristante;R;R;L;0;Marco Silvestri;64;1;0;37;H;;;;
+22/23;Italy;142;Roberto Pereyra;R;L;L;0;Rui Patrício;82;2;0;69;A;;;;
+22/23;Italy;143;Arkadiusz Milik;L;L;L;0;Lukasz Skorupski;75;1;1;31;H;;;;
+22/23;Italy;133;Victor Osimhen;R;R;R;0;Pietro Terracciano;74;1;0;48;H;;;;
+22/23;Italy;103;Gabriel Strefezza;R;L;L;0;Ivan Provedel;92;2;2;23;A;;;;
+22/23;Italy;144;Christian Gytkjær;R;L;L;0;Wladimiro Falcone;73;0;1;84;H;;;;
+20/21;Italy;128;Zlatan Ibrahimović;R;R;R;1;Lukasz Skorupski;75;1;0;51;H;;;;
+20/21;Italy;145;Jordan Veretout;R;L;L;1;Wojciech Szczesny;87;0;0;31;H;;;;
+20/21;Italy;146;Cristiano Ronaldo;R;R;L;1;Antonio Mirante;93;1;0;44;A;;;;
+20/21;Italy;147;Franck Kessié;R;L;R;1;Alex Cordaz;94;0;0;45;A;;;;
+20/21;Italy;114;Domenico Berardi;L;C;R;1;Jeroen Zoet;91;1;1;64;A;;;;
+20/21;Italy;148;Fabio Quagliarella;R;L;C;1;Bartlomiej Dragowski;81;0;0;42;A;;;;
+20/21;Italy;149;Simy;R;L;R;1;Andrea Consigli;66;1;0;49;A;;;;
+20/21;Italy;129;Francesco Caputo;R;R;R;1;Alex Cordaz;94;1;1;58;H;;;;
+20/21;Italy;150;Lorenzo Insigne;R;L;R;1;Gianluigi Buffon;95;2;0;90;A;;;;
+20/21;Italy;140;Andrea Belotti;R;L;R;1;Alessio Cragno;96;0;0;4;H;;;;
+20/21;Italy;149;Simy;R;R;L;1;Gianluigi Buffon;95;0;0;12;H;;;;
+20/21;Italy;145;Jordan Veretout;R;L;R;1;Lorenzo Montipò;88;2;2;69;H;;;;
+20/21;Italy;145;Jordan Veretout;R;L;L;1;Ciprian Tătărușanu;80;2;1;71;A;;;;
+20/21;Italy;128;Zlatan Ibrahimović;R;L;R;1;Antonio Mirante;93;2;2;79;H;;;;
+20/21;Italy;151;Duván Zapata;R;R;L;1;Emil Audero;70;0;2;80;H;;;;
+20/21;Italy;152;Juraj Kucka;R;R;L;1;Ivan Provedel;92;1;2;90;H;;;;
+20/21;Italy;140;Andrea Belotti;R;C;L;1;Pepe Reina;97;1;1;24;H;;;;
+20/21;Italy;153;Rodrigo De Paul;R;L;L;1;Gianluigi Donnarumma;98;0;1;48;H;;;;
+20/21;Italy;154;Manuel Locatelli;R;L;R;1;David Ospina;99;0;0;59;A;;;;
+20/21;Italy;146;Cristiano Ronaldo;R;C;R;1;Ivan Provedel;92;1;3;76;A;;;;
+20/21;Italy;99;Ciro Immobile;R;L;R;1;Salvatore Sirigu;100;3;2;90;A;;;;
+20/21;Italy;48;João Pedro;R;L;L;1;Emil Audero;70;0;0;48;H;;;;
+20/21;Italy;155;Cristian Ansaldi;L;R;R;1;Samir Handanovič;83;0;1;62;A;;;;
+20/21;Italy;125;Romelu Lukaku;L;R;L;1;Salvatore Sirigu;100;2;2;84;H;;;;
+20/21;Italy;147;Franck Kessié;R;L;R;1;Bartlomiej Dragowski;81;1;0;28;H;;;;
+20/21;Italy;156;Miguel Veloso;L;R;L;1;Pierluigi Gollini;101;0;0;62;A;;;;
+20/21;Italy;99;Ciro Immobile;R;L;L;1;Juan Musso;79;0;3;74;H;;;;
+20/21;Italy;95;M'Bala Nzola;R;L;R;1;Alessio Cragno;96;2;1;90;A;;;;
+20/21;Italy;147;Franck Kessié;R;C;R;1;Emil Audero;70;0;0;45;A;;;;
+20/21;Italy;114;Domenico Berardi;L;R;L;1;Lorenzo Montipò;88;0;0;8;H;;;;
+20/21;Italy;146;Cristiano Ronaldo;R;L;R;1;Mattia Perin;69;1;1;78;A;;;;
+20/21;Italy;146;Cristiano Ronaldo;R;L;R;1;Mattia Perin;69;1;2;89;A;;;;
+20/21;Italy;94;Dušan Vlahović;L;L;R;1;Andrea Consigli;66;0;1;35;H;;;;
+20/21;Italy;145;Jordan Veretout;R;R;R;1;Vanja Milinkovič-Savič;67;1;0;43;H;;;;
+20/21;Italy;118;Mattia Zaccagni;R;L;R;1;Emil Audero;70;0;2;70;H;;;;
+20/21;Italy;125;Romelu Lukaku;L;L;R;1;David Ospina;99;0;0;73;H;;;;
+20/21;Italy;156;Miguel Veloso;L;R;L;1;Bartlomiej Dragowski;81;0;0;8;A;;;;
+20/21;Italy;94;Dušan Vlahović;L;L;R;1;Marco Silvestri;64;0;1;19;H;;;;
+20/21;Italy;149;Simy;R;R;R;1;Emil Audero;70;2;0;45;A;;;;
+20/21;Italy;125;Romelu Lukaku;L;R;L;1;Ivan Provedel;92;1;0;71;H;;;;
+20/21;Italy;157;Marco Sal;R;R;L;1;Mattia Perin;69;1;0;89;H;;;;
+20/21;Italy;111;Hakan Çalhanoğlu;R;R;L;1;Pepe Reina;97;1;0;17;H;;;;
+20/21;Italy;105;Luis Muriel;R;L;R;1;Angelo da Costa;102;0;0;22;A;;;;
+20/21;Italy;158;Domenico Criscito;L;L;L;1;Ivan Provedel;92;1;1;73;A;;;;
+20/21;Italy;48;João Pedro;R;L;L;1;Antonio Mirante;93;3;1;90;A;;;;
+20/21;Italy;147;Franck Kessié;R;L;R;1;Lorenzo Montipò;88;0;0;15;A;;;;
+20/21;Italy;99;Ciro Immobile;R;R;L;1;Mattia Perin;69;0;0;15;A;;;;
+20/21;Italy;159;Vladimir Golemić;R;R;R;1;Samir Handanovič;83;2;1;36;A;;;;
+20/21;Italy;150;Lorenzo Insigne;R;L;L;1;Alessio Cragno;96;1;3;86;A;;;;
+20/21;Italy;160;Antonio Candreva;R;L;R;1;Samir Handanovič;83;0;0;23;H;;;;
+20/21;Italy;161;Henrikh Mkhitaryan;R;L;L;1;Alex Cordaz;94;0;2;35;A;;;;
+20/21;Italy;95;M'Bala Nzola;L;R;L;1;David Ospina;99;1;0;68;A;;;;
+20/21;Italy;94;Dušan Vlahović;L;R;R;1;Thomas Strakosha;103;2;0;88;A;;;;
+20/21;Italy;150;Lorenzo Insigne;R;L;L;1;Juan Musso;79;0;0;15;A;;;;
+20/21;Italy;147;Franck Kessié;R;R;L;1;Salvatore Sirigu;100;1;0;36;H;;;;
+20/21;Italy;95;M'Bala Nzola;L;R;L;1;Emil Audero;70;1;1;61;H;;;;
+20/21;Italy;128;Zlatan Ibrahimović;R;L;R;1;Alessio Cragno;96;0;0;7;A;;;;
+20/21;Italy;122;Riccardo Orsolini;L;R;L;1;Marco Silvestri;64;0;0;18;H;;;;
+20/21;Italy;160;Antonio Candreva;R;C;L;1;Juan Musso;79;0;1;67;H;;;;
+20/21;Italy;150;Lorenzo Insigne;R;R;R;1;Bartlomiej Dragowski;81;4;0;72;H;;;;
+20/21;Italy;162;Filip Djuričić;R;R;L;1;Luigi Sepe;68;0;1;90;H;;;;
+20/21;Italy;163;Nicolas Viola;L;R;L;1;Salvatore Sirigu;100;0;0;31;H;;;;
+20/21;Italy;164;Josip Iličić;L;R;R;1;Gianluigi Donnarumma;98;0;1;53;A;;;;
+20/21;Italy;153;Rodrigo De Paul;R;L;R;1;Ivan Provedel;92;0;0;52;A;;;;
+20/21;Italy;147;Franck Kessié;R;R;C;1;Lukasz Skorupski;75;0;1;55;A;;;;
+20/21;Italy;152;Juraj Kucka;R;L;L;1;Marco Silvestri;64;0;0;8;A;;;;
+20/21;Italy;125;Romelu Lukaku;L;L;R;1;Pepe Reina;97;0;0;22;H;;;;
+20/21;Italy;145;Jordan Veretout;R;R;L;1;Juan Musso;79;1;0;25;H;;;;
+20/21;Italy;150;Lorenzo Insigne;R;L;R;1;Wojciech Szczesny;87;0;0;31;H;;;;
+20/21;Italy;129;Francesco Caputo;R;L;L;1;Alex Cordaz;94;1;1;49;A;;;;
+20/21;Italy;152;Juraj Kucka;R;L;L;1;Juan Musso;79;1;0;32;H;;;;
+20/21;Italy;147;Franck Kessié;R;R;R;1;Pau López;104;0;0;42;A;;;;
+20/21;Italy;48;João Pedro;R;L;L;1;Alex Cordaz;94;0;1;60;A;;;;
+20/21;Italy;114;Domenico Berardi;L;C;R;1;Alex Meret;76;1;1;45;H;;;;
+20/21;Italy;150;Lorenzo Insigne;R;L;R;1;Andrea Consigli;66;2;2;90;A;;;;
+20/21;Italy;129;Francesco Caputo;R;R;R;1;Alex Meret;76;2;3;90;H;;;;
+20/21;Italy;147;Franck Kessié;R;R;L;1;Juan Musso;79;0;1;90;H;;;;
+20/21;Italy;149;Simy;R;L;R;1;Salvatore Sirigu;100;0;0;27;H;;;;
+20/21;Italy;152;Juraj Kucka;R;L;L;1;Bartlomiej Dragowski;81;1;0;32;A;;;;
+20/21;Italy;165;Álvaro Morata;R;R;R;1;Pepe Reina;97;2;1;60;H;;;;
+20/21;Italy;146;Cristiano Ronaldo;R;L;L;1;Alessio Cragno;96;0;1;25;A;;;;
+20/21;Italy;153;Rodrigo De Paul;R;C;R;1;Mattia Perin;69;1;0;30;A;;;;
+20/21;Italy;149;Simy;R;L;R;1;Pepe Reina;97;2;1;50;A;;;;
+20/21;Italy;166;Hernani;R;R;L;1;Pau López;104;1;0;55;H;;;;
+20/21;Italy;125;Romelu Lukaku;L;R;L;1;Salvatore Sirigu;100;0;0;62;A;;;;
+20/21;Italy;167;Ruslan Malinovskyi;L;L;R;1;Marco Silvestri;64;0;0;33;A;;;;
+20/21;Italy;149;Simy;R;R;L;1;Lukasz Skorupski;75;1;0;40;H;;;;
+20/21;Italy;106;Lorenzo Pellegrini;R;L;R;1;Andrea Consigli;66;0;0;26;A;;;;
+20/21;Italy;168;Felipe Caicedo;L;L;R;1;Jeroen Zoet;91;1;1;88;H;;;;
+20/21;Italy;140;Andrea Belotti;R;C;R;1;Juan Musso;79;0;0;61;A;;;;
+20/21;Italy;164;Josip Iličić;L;C;R;1;Bartlomiej Dragowski;81;2;2;70;A;;;;
+20/21;Italy;122;Riccardo Orsolini;L;L;L;1;Ivan Provedel;92;0;0;12;H;;;;
+20/21;Italy;169;Joaquín Correa;R;R;L;1;Lorenzo Montipò;88;2;0;36;H;;;;
+20/21;Italy;114;Domenico Berardi;L;L;L;1;Bartlomiej Dragowski;81;0;1;59;H;;;;
+20/21;Italy;163;Nicolas Viola;L;R;L;1;Pepe Reina;97;4;1;62;A;;;;
+20/21;Italy;114;Domenico Berardi;L;L;R;1;Bartlomiej Dragowski;81;1;1;62;H;;;;
+20/21;Italy;149;Simy;R;C;L;1;Juan Musso;79;0;1;68;H;;;;
+20/21;Italy;170;Manolo Gabbiadini;L;L;R;1;Marco Silvestri;64;1;1;73;H;;;;
+20/21;Italy;163;Nicolas Viola;L;L;R;1;Mattia Perin;69;0;0;5;A;;;;
+20/21;Italy;150;Lorenzo Insigne;R;L;R;1;Pepe Reina;97;0;0;7;H;;;;
+20/21;Italy;94;Dušan Vlahović;L;L;L;1;Marco Silvestri;64;0;0;45;A;;;;
+20/21;Italy;48;João Pedro;R;L;L;1;Juan Musso;79;0;0;55;A;;;;
+20/21;Italy;94;Dušan Vlahović;L;C;R;1;Wojciech Szczesny;87;0;0;29;H;;;;
+20/21;Italy;163;Nicolas Viola;L;L;R;1;Juan Musso;79;0;2;34;H;;;;
+20/21;Italy;105;Luis Muriel;R;R;C;1;Lukasz Skorupski;75;1;0;44;H;;;;
+20/21;Italy;149;Simy;R;L;R;1;Simone Colombi;105;3;3;69;A;;;;
+20/21;Italy;94;Dušan Vlahović;L;R;R;1;Lukasz Skorupski;75;0;0;21;A;;;;
+20/21;Italy;99;Ciro Immobile;R;L;R;1;Mattia Perin;69;1;0;43;H;;;;
+20/21;Italy;114;Domenico Berardi;L;R;C;1;Pierluigi Gollini;101;0;1;52;H;;;;
+20/21;Italy;171;Gianluca Scamacca;R;C;L;1;Pepe Reina;97;4;1;80;A;;;;
+20/21;Italy;146;Cristiano Ronaldo;R;L;L;1;Simone Scuffet;106;1;0;83;A;;;;
+20/21;Italy;107;Lautaro Martínez;R;R;R;1;Emil Audero;70;4;1;70;H;;;;
+20/21;Italy;122;Riccardo Orsolini;L;R;R;1;Juan Musso;79;1;0;82;A;;;;
+20/21;Italy;147;Franck Kessié;R;R;L;1;Salvatore Sirigu;100;0;1;26;A;;;;
+20/21;Italy;171;Gianluca Scamacca;R;R;L;1;Federico Ravaglia;107;0;1;61;A;;;;
+20/21;Italy;154;Manuel Locatelli;R;R;L;1;Luigi Sepe;68;0;0;25;A;;;;
+20/21;Italy;125;Romelu Lukaku;L;L;R;1;Wojciech Szczesny;87;1;0;38;A;;;;
+20/21;Italy;95;M'Bala Nzola;L;R;L;1;Salvatore Sirigu;100;1;0;41;H;;;;
+20/21;Italy;140;Andrea Belotti;R;R;L;1;Jeroen Zoet;91;2;0;54;A;;;;
+20/21;Italy;172;Goran Pandev;L;R;L;1;Pierluigi Gollini;101;1;4;67;H;;;;
+20/21;Italy;173;Juan Cuadrado;R;L;C;1;Samir Handanovič;83;2;2;88;H;;;;
+20/21;Italy;148;Fabio Quagliarella;R;R;L;1;Juan Musso;79;0;0;88;A;;;;
+20/21;Italy;147;Franck Kessié;R;L;C;1;Pierluigi Gollini;101;0;0;43;A;;;;
+20/21;Italy;107;Lautaro Martínez;R;L;L;1;Juan Musso;79;2;0;55;H;;;;
+20/21;Italy;114;Domenico Berardi;L;R;L;1;Thomas Strakosha;103;1;0;78;H;;;;
+20/21;Italy;142;Roberto Pereyra;L;L;R;1;Samir Handanovič;83;5;0;79;A;;;;
+20/21;Italy;147;Franck Kessié;R;R;L;1;Pierluigi Gollini;101;0;1;90;A;;;;
+20/21;Italy;128;Zlatan Ibrahimović;R;L;L;0;Samir Handanovič;83;0;0;13;A;;;;
+20/21;Italy;174;Gianluca Lapadula;R;L;L;0;Antonio Mirante;93;2;1;55;A;;;;
+20/21;Italy;148;Fabio Quagliarella;R;L;L;0;Marco Sportiello;86;0;1;45;A;;;;
+20/21;Italy;128;Zlatan Ibrahimović;R;L;L;0;Marco Silvestri;64;1;2;66;H;;;;
+20/21;Italy;147;Franck Kessié;R;R;R;0;Bartlomiej Dragowski;81;2;0;38;H;;;;
+20/21;Italy;146;Cristiano Ronaldo;R;R;R;0;Pierluigi Gollini;101;1;1;61;H;;;;
+20/21;Italy;175;Musa Barrow;R;R;R;0;Ivan Provedel;92;2;2;90;A;;;;
+20/21;Italy;99;Ciro Immobile;R;L;L;0;Gianluigi Donnarumma;98;2;0;27;A;;;;
+20/21;Italy;117;Gianluca Caprari;R;L;R;0;Gianluigi Donnarumma;98;0;2;61;H;;;;
+20/21;Italy;176;Alexis Sánchez;R;L;L;0;Emil Audero;70;0;0;12;A;;;;
+20/21;Italy;48;João Pedro;R;R;R;0;Bartlomiej Dragowski;81;0;0;37;A;;;;
+20/21;Italy;128;Zlatan Ibrahimović;R;L;L;0;Lukasz Skorupski;75;0;1;26;A;;;;
+20/21;Italy;140;Andrea Belotti;R;L;L;0;Pierluigi Gollini;101;3;0;42;A;;;;
+20/21;Italy;99;Ciro Immobile;R;R;R;0;Lukasz Skorupski;75;0;0;17;A;;;;
+20/21;Italy;99;Ciro Immobile;R;L;L;0;Salvatore Sirigu;100;0;0;84;H;;;;
+20/21;Italy;177;Andrey Galabinov;R;R;R;0;Wojciech Szczesny;87;3;0;90;A;;;;
+20/21;Italy;99;Ciro Immobile;R;L;L;0;Lorenzo Montipò;88;4;1;55;H;;;;
+20/21;Italy;178;Edin Džeko;R;R;R;0;Emil Audero;70;2;0;71;A;;;;
+20/21;Italy;105;Luis Muriel;R;C;L;0;Andrea Consigli;66;1;1;77;A;;;;
+20/21;Italy;147;Franck Kessié;R;R;R;0;Wojciech Szczesny;87;0;1;58;A;;;;
+20/21;Italy;114;Domenico Berardi;L;R;R;0;Gianluigi Buffon;95;0;0;16;H;;;;
+20/21;Italy;146;Cristiano Ronaldo;R;L;L;0;Samir Handanovič;83;1;0;24;H;;;;
+20/21;Italy;150;Lorenzo Insigne;R;L;L;0;Pietro Terracciano;74;0;0;56;A;;;;
+23/24;Portugal;9;Ángel Di María;L;L;L;0;Hugo Souza;108;0;0;26;H;;;;
+23/24;Portugal;179;Fellipe Cardoso;R;R;R;0;Trublin;109;1;0;54;A;;;;
+23/24;Portugal;31;Samu;L;L;L;0;Luiz Júnior;110;0;0;49;H;;;;
+23/24;Portugal;180;Cristo;R;R;R;0;João Gonçalves;111;0;0;24;H;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
