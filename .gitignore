@@ -1,0 +1,21 @@
+# Python (Bytecode & C-extensions)
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# PyCharm / JetBrains IDE (Ignore local/user-specific data only)
+.idea/workspace.xml
+.idea/shelf/
+.idea/navEditor.xml
+.idea/localHistory/
+.idea/vcs.xml
+
+# Operating system files
+.DS_Store
+Thumbs.db
