@@ -10,11 +10,7 @@ ENV/
 env/
 
 # PyCharm / JetBrains IDE (Ignore local/user-specific data only)
-.idea/workspace.xml
-.idea/shelf/
-.idea/navEditor.xml
-.idea/localHistory/
-.idea/vcs.xml
+.idea/
 
 # Operating system files
 .DS_Store
