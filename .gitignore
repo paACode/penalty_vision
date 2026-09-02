@@ -17,4 +17,6 @@ env/
 Thumbs.db-7
 
 # raw data
-data/raw/
+data/
+*.csv
+
